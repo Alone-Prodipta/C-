@@ -1,3 +1,5 @@
+//Calculating the Greatest Common Division of two numbers.
+/* More explanation in the C programming repository*/
 #include<iostream>
 using namespace std;
 int main()
@@ -32,4 +34,5 @@ int main()
         }
     }
     return 0;
+
 }
